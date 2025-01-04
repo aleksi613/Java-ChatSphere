@@ -83,10 +83,6 @@ The application uses SQLite for message storage. The database file (`chat.db`) w
 - **Forward to Chat Button**: Forward an AI response to the public chat.
 - **Toggle Theme Button**: Switch between light and dark mode.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [OpenAI](https://www.openai.com/) for the GPT-3.5 API
